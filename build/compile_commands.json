@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/import/reed/1/z5232937/6771/ass1/ass3/build",
+  "command": "/usr/bin/clang++-11   -I../include -I../source   -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -O3 -DNDEBUG -fsanitize=cfi -flto=thin   -std=c++2a -o source/CMakeFiles/client.dir/client.cpp.o -c /import/reed/1/z5232937/6771/ass1/ass3/source/client.cpp",
+  "file": "/import/reed/1/z5232937/6771/ass1/ass3/source/client.cpp"
+},
+
+{
+  "directory": "/import/reed/1/z5232937/6771/ass1/ass3/build",
+  "command": "/usr/bin/clang++-11   -I../include -I../test -isystem /import/kamen/1/cs6771/vcpkg/installed/x64-linux-libcxx/include   -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -O3 -DNDEBUG -fsanitize=cfi -flto=thin   -std=c++2a -o test/CMakeFiles/test_main.dir/test_main.cpp.o -c /import/reed/1/z5232937/6771/ass1/ass3/test/test_main.cpp",
+  "file": "/import/reed/1/z5232937/6771/ass1/ass3/test/test_main.cpp"
+},
+
+{
+  "directory": "/import/reed/1/z5232937/6771/ass1/ass3/build",
+  "command": "/usr/bin/clang++-11   -I../include -I../test/graph -isystem /import/kamen/1/cs6771/vcpkg/installed/x64-linux-libcxx/include   -fvisibility=hidden -fstack-protector -fdiagnostics-color=always -pedantic -Werror -Wall -Wextra -Wcast-align -Wconversion -Wdouble-promotion -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wshadow -Wsign-conversion -Wsign-promo -Wunused -Wformat=2 -Wodr -Wno-attributes -Wnull-dereference -Wno-unused-command-line-argument -stdlib=libc++ -isystem /usr/lib/llvm-11/include/c++/v1 -O3 -DNDEBUG -fsanitize=cfi -flto=thin   -Wno-error -Wno-self-assign-overloaded -std=c++2a -o test/graph/CMakeFiles/graph_test1.dir/graph_test1.cpp.o -c /import/reed/1/z5232937/6771/ass1/ass3/test/graph/graph_test1.cpp",
+  "file": "/import/reed/1/z5232937/6771/ass1/ass3/test/graph/graph_test1.cpp"
+}
+]

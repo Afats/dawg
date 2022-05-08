@@ -1,0 +1,21 @@
+Start testing: Aug 01 09:00 AEST
+----------------------------------------------------------
+1/1 Testing: test.graph_test1
+1/1 Test: test.graph_test1
+Command: "/tmp_amd/reed/export/reed/1/z5232937/6771/ass1/ass3/build/test/graph/graph_test1"
+Directory: /tmp_amd/reed/export/reed/1/z5232937/6771/ass1/ass3/build/test/graph
+"test.graph_test1" start time: Aug 01 09:00 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test1" end time: Aug 01 09:00 AEST
+"test.graph_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 01 09:00 AEST
